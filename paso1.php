@@ -57,3 +57,4 @@ if ($reverso != []) {
 
 //imprimimos el resultado final
 echo  "<br>" . $resu;
+
